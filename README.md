@@ -4,7 +4,7 @@ A machine learning project that applies the **K-Nearest Neighbors (KNN)** algori
 
 ---
 
-## 📌 Abstract
+## Abstract
 The Iris dataset, introduced by Ronald Fisher, contains 150 samples with four features:
 - Sepal Length
 - Sepal Width
@@ -15,7 +15,7 @@ The goal of this project was to classify the flowers into three species (**Setos
 
 ---
 
-## 🚀 Features
+## Features
 - **Data Preprocessing** – Normalization with min-max scaling  
 - **Train-Test Split** – 70% training, 30% testing  
 - **KNN Classification** – Implemented with *k = 5*  
@@ -25,13 +25,13 @@ The goal of this project was to classify the flowers into three species (**Setos
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **R**
 - Libraries: `class`, `caret`, `ggplot2`, `plotly`, `dplyr`, `FNN`
 
 ---
 
-## 📊 Results
+## Results
 - Achieved high accuracy due to the structured nature of the dataset  
 - **Setosa** species was clearly distinguishable  
 - **Versicolor** and **Virginica** had overlapping regions → occasional misclassifications  
@@ -39,7 +39,7 @@ The goal of this project was to classify the flowers into three species (**Setos
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 - Understanding of **distance-based supervised learning (KNN)**  
 - Importance of **data normalization** in ML  
 - Using **visualizations** to interpret classification results  
